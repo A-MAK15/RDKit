@@ -12,6 +12,7 @@ of atoms in each molecule can now be determined followed by the chemical symbol,
 
 ## Molecule drawing
 Now we can see the structure of the molecules in the below screenshot:
+
 ![image](https://github.com/user-attachments/assets/74c4e8ad-03c1-4585-8806-957729fb27d6)
 
 ### Requirements
@@ -24,3 +25,7 @@ To run the project, ensure you have the following installed:
   - **pubchempy**
   - **RdKit**
   - **matplotlib**
+
+### Future Work
+  - Add more molecules.
+  - Integrate the model into a web application for real-time interactivity.
